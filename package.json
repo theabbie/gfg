@@ -1,0 +1,27 @@
+{
+  "name": "gfg",
+  "version": "1.0.0",
+  "description": "Unofficial GeeksForGeeks API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'working'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theabbie/gfg.git"
+  },
+  "keywords": [
+    "theabbie",
+    "gfg",
+    "geeksforgeeks"
+  ],
+  "author": "theabbie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theabbie/gfg/issues"
+  },
+  "homepage": "https://github.com/theabbie/gfg#readme",
+  "dependencies": {
+    "axios": "^0.21.0"
+  }
+}
